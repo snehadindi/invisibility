@@ -13,8 +13,8 @@ This project uses OpenCV to create an "invisible cloak" effect, making a specifi
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/invisible-cloak.git
-    cd invisible-cloak
+    git clone https://github.com/snehadindi/invisibility.git
+    cd invisibility
     ```
 
 2. **Create and activate a virtual environment**:
